@@ -4,15 +4,15 @@
 <img src="Assets/img/icon.png" alt="Amazon SES" width="200"/>
 </p>
 
-This plugin enable Mautic 5 to run AWS SES as a email transport and provide a callback to process bounces.
-Tested in Mautic 5.0.0 to 5.2.0
+This plugin enable Mautic 6 to run AWS SES as a email transport and provide a callback to process bounces.
+Tested in Mautic 5.0.0 to 5.2.0 6.*
 
 ## INSTALLATION
 
 1. Get the plugin using
 
 ```
-composer require pabloveintimilla/mautic-amazon-ses
+composer require cyberwork/mautic-amazon-ses
 ```
 
 2. Clear cache
@@ -63,9 +63,6 @@ Process bounces you need to configure an AWS SNS to send a callback to Mautic.
 
 ## AUTHOR
 
-👤 **Pablo Veintimilla**
+👤 **Adriano Andrade**
 
-- Twitter: [@pabloveintimilla](https://twitter.com/pabloveintimilla)
-- Github: [@pabloveintimilla](https://github.com/pabloveintimilla)
-
-[MailjetGuidePage]: https://dev.mailjet.com/email/guides/getting-started/
+- Github: [@pabloveintimilla](https://github.com/cyberwork)
