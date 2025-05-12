@@ -1,4 +1,4 @@
-# Mautic 5 Amazon SES
+# Mautic 6 Amazon SES
 
 <p style="text-align: center;">
 <img src="Assets/img/icon.png" alt="Amazon SES" width="200"/>
